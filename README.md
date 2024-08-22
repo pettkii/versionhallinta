@@ -15,3 +15,4 @@
 
 Tämä päivitys on tehty VSCodella. Toimiiko tämä?
 
+![alt text](https://github.com/pettkii/versionhallinta/blob/main/cat.jpg?raw=true)
